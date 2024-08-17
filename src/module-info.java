@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * 
+ */
+module InheritanceOOPS {
+	requires AccessModifier;
+}
